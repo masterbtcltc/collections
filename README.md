@@ -4,6 +4,13 @@
 
 Forked from https://github.com/ordinals-wallet/ordinals-collections
 
+## TODO:
+
+- Make metadata composer
+- Update existing collections to include traits - [moonbirds](https://github.com/LitecoinLabs/liteordinals-collections/blob/main/collections/litecoin-moonbirds/inscriptions.json) are already done
+- Implement CircleCI or similar platform, [see example](https://github.com/ordinals-wallet/ordinals-collections/blob/main/.circleci/config.yml)
+- Re-create [test_collections.py](https://github.com/ordinals-wallet/ordinals-collections/blob/main/tests/test_colllections.py)
+
 ## Getting Started
 
 **_Artists_**
