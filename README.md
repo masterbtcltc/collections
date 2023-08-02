@@ -46,7 +46,8 @@ Collection creators can format their collection data using the `inscriptions.jso
   "description": "",             # collection description
   "twitter_link": "",            # official twitter
   "discord_link": "",            # official discord
-  "website_link": ""             # official website
+  "website_link": "",            # official website
+  "royalty_address": ""          # collection royalty address
 }
 ```
 
