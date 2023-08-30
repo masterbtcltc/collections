@@ -6,5 +6,6 @@
   "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
   "twitter_link": "https://twitter.com/LitecoinPunks",
   "discord_link": "https://discord.com/invite/litecoinpunks",
-  "website_link": "https://litecoinpunks.xyz/"
+  "website_link": "https://litecoinpunks.xyz/",
+  "royalty_address": "ltc1qpj7npp4dl82f805n9lpwwypx89wt832awqkuss"
 }
